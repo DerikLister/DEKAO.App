@@ -1,0 +1,2700 @@
+{
+  "Version": 1,
+  "Hash": "icAqxCD/Kd+uAwF+3n1MOQkF1XLgCId7D8M79KONHRE=",
+  "Source": "Dekao.UI.Site",
+  "BasePath": "_content/Dekao.UI.Site",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dekao.UI.Site\\wwwroot",
+      "Source": "Dekao.UI.Site",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\css\\site.css",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktayyji1pb",
+      "Integrity": "uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\css\\site_bundle.min.css",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "css/site_bundle.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t3qmedxux5",
+      "Integrity": "VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh+VVdayolb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site_bundle.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\js\\site.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tj3fcbp1yk",
+      "Integrity": "R9hz+L+TqZKUjgFxQecYlkIGfNV+jwLFLnvT5xK8GUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\js\\site_bundle.min.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "js/site_bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "55ohnfmqeh",
+      "Integrity": "eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site_bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/bootstrap/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s35ty4nyc5",
+      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/bootstrap/css/bootstrap-grid#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bqjiyaj88i",
+      "Integrity": "Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/bootstrap/css/bootstrap-reboot#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ub07r2b239",
+      "Integrity": "lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/bootstrap/css/bootstrap-utilities#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "khv3u5hwcm",
+      "Integrity": "2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/bootstrap/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "notf2xhcfb",
+      "Integrity": "+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "458te7yl5x",
+      "Integrity": "iIdlIYCh31u0wwUJ2r8/YRG6mNQShb+Nw2fY0C97f5E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/css/all#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3mu0h9tx89",
+      "Integrity": "BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kr6peqau0t",
+      "Integrity": "gIRDrmyCBDla3YVD2oqQpguTdvsPh+2OjqN9EJWW2AU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rfefp540hj",
+      "Integrity": "1yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8hwpw88keo",
+      "Integrity": "VM9ghve7IfnQcq1JShm0aB+lFt0KFM7lLaAdNlGpE6M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3s7ez9m4mu",
+      "Integrity": "40VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "alr6ukxakq",
+      "Integrity": "0vBZNUCw4zum3iVaVPJy1GbjEUSAaVa+qM/b9+3/yb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2i6n11vb93",
+      "Integrity": "qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/webfonts/fa-v4compatibility#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wontxidjva",
+      "Integrity": "MPar9rqkJYJYKHk9bfrR+2N2XQ5auqevb+r7m/zs5aA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/font-awesome/webfonts/fa-v4compatibility#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kizxfigrer",
+      "Integrity": "DOkDPGnccU9fRe+b8X1V5MRrzfrWeZpOkrOOd4G/hr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery\\jquery.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/jquery/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0i3buxo5is",
+      "Integrity": "eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/jquery-validate/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ilo7uva0vt",
+      "Integrity": "RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/jquery-validate/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lzl9nlhx6b",
+      "Integrity": "kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/jquery-validate/jquery-validation-sri#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e0j594lf74",
+      "Integrity": "gsfh+fF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/jquery-validate/localization/messages_pt_BR#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "web6tml14t",
+      "Integrity": "SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/jquery-validate/localization/methods_pt#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dblook5b1t",
+      "Integrity": "6XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js"
+    },
+    {
+      "Identity": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Dekao.UI.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\",
+      "BasePath": "_content/Dekao.UI.Site",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "03hjc8e09r",
+      "Integrity": "xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 15:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ktayyji1pb.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 15:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktayyji1pb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site_bundle.min.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\css\\site_bundle.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh+VVdayolb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 16:02:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh+VVdayolb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site_bundle.min.t3qmedxux5.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\css\\site_bundle.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh+VVdayolb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 16:02:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3qmedxux5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site_bundle.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh+VVdayolb0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9hz+L+TqZKUjgFxQecYlkIGfNV+jwLFLnvT5xK8GUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 18:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9hz+L+TqZKUjgFxQecYlkIGfNV+jwLFLnvT5xK8GUE="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.tj3fcbp1yk.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9hz+L+TqZKUjgFxQecYlkIGfNV+jwLFLnvT5xK8GUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 18:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tj3fcbp1yk"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9hz+L+TqZKUjgFxQecYlkIGfNV+jwLFLnvT5xK8GUE="
+        }
+      ]
+    },
+    {
+      "Route": "js/site_bundle.min.55ohnfmqeh.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\js\\site_bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 18:57:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "55ohnfmqeh"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site_bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site_bundle.min.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\js\\site_bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 18:57:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.s35ty4nyc5.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s35ty4nyc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap-grid.bqjiyaj88i.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bqjiyaj88i"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap-grid.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap-reboot.ub07r2b239.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ub07r2b239"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap-reboot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap-utilities.khv3u5hwcm.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "khv3u5hwcm"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap-utilities.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.458te7yl5x.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIdlIYCh31u0wwUJ2r8/YRG6mNQShb+Nw2fY0C97f5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 16:15:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "458te7yl5x"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iIdlIYCh31u0wwUJ2r8/YRG6mNQShb+Nw2fY0C97f5E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIdlIYCh31u0wwUJ2r8/YRG6mNQShb+Nw2fY0C97f5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 16:15:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iIdlIYCh31u0wwUJ2r8/YRG6mNQShb+Nw2fY0C97f5E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.notf2xhcfb.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:29:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "notf2xhcfb"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/all.3mu0h9tx89.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mu0h9tx89"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/all.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/all.css",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.kr6peqau0t.ttf",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gIRDrmyCBDla3YVD2oqQpguTdvsPh+2OjqN9EJWW2AU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kr6peqau0t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gIRDrmyCBDla3YVD2oqQpguTdvsPh+2OjqN9EJWW2AU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.rfefp540hj.woff2",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rfefp540hj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gIRDrmyCBDla3YVD2oqQpguTdvsPh+2OjqN9EJWW2AU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gIRDrmyCBDla3YVD2oqQpguTdvsPh+2OjqN9EJWW2AU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.3s7ez9m4mu.woff2",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"40VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3s7ez9m4mu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-40VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy+U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.8hwpw88keo.ttf",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VM9ghve7IfnQcq1JShm0aB+lFt0KFM7lLaAdNlGpE6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hwpw88keo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VM9ghve7IfnQcq1JShm0aB+lFt0KFM7lLaAdNlGpE6M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.ttf",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VM9ghve7IfnQcq1JShm0aB+lFt0KFM7lLaAdNlGpE6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VM9ghve7IfnQcq1JShm0aB+lFt0KFM7lLaAdNlGpE6M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"40VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-40VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy+U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.2i6n11vb93.woff2",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2i6n11vb93"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.alr6ukxakq.ttf",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0vBZNUCw4zum3iVaVPJy1GbjEUSAaVa+qM/b9+3/yb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "alr6ukxakq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0vBZNUCw4zum3iVaVPJy1GbjEUSAaVa+qM/b9+3/yb0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0vBZNUCw4zum3iVaVPJy1GbjEUSAaVa+qM/b9+3/yb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0vBZNUCw4zum3iVaVPJy1GbjEUSAaVa+qM/b9+3/yb0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-v4compatibility.kizxfigrer.woff2",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOkDPGnccU9fRe+b8X1V5MRrzfrWeZpOkrOOd4G/hr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kizxfigrer"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-v4compatibility.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOkDPGnccU9fRe+b8X1V5MRrzfrWeZpOkrOOd4G/hr0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-v4compatibility.ttf",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MPar9rqkJYJYKHk9bfrR+2N2XQ5auqevb+r7m/zs5aA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MPar9rqkJYJYKHk9bfrR+2N2XQ5auqevb+r7m/zs5aA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-v4compatibility.woff2",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOkDPGnccU9fRe+b8X1V5MRrzfrWeZpOkrOOd4G/hr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOkDPGnccU9fRe+b8X1V5MRrzfrWeZpOkrOOd4G/hr0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-v4compatibility.wontxidjva.ttf",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MPar9rqkJYJYKHk9bfrR+2N2XQ5auqevb+r7m/zs5aA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wontxidjva"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-v4compatibility.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MPar9rqkJYJYKHk9bfrR+2N2XQ5auqevb+r7m/zs5aA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.0i3buxo5is.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/additional-methods.ilo7uva0vt.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilo7uva0vt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validate/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/additional-methods.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/jquery.validate.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/jquery.validate.lzl9nlhx6b.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lzl9nlhx6b"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validate/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/jquery-validation-sri.e0j594lf74.json",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gsfh+fF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e0j594lf74"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validate/jquery-validation-sri.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gsfh+fF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/jquery-validation-sri.json",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gsfh+fF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gsfh+fF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/localization/messages_pt_BR.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/localization/messages_pt_BR.web6tml14t.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "web6tml14t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validate/localization/messages_pt_BR.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/localization/methods_pt.dblook5b1t.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dblook5b1t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validate/localization/methods_pt.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validate/localization/methods_pt.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03hjc8e09r"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\derik\\OneDrive\\Área de Trabalho\\DEKAO.App\\DekaoWeb\\Dekao.UI.Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 14:26:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="
+        }
+      ]
+    }
+  ]
+}

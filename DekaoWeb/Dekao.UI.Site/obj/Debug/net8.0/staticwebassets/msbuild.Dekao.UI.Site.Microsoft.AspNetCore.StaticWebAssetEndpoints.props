@@ -1,0 +1,316 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"737"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 15:45:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/css/site.ktayyji1pb.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ktayyji1pb"},{"Name":"integrity","Value":"sha256-uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM="},{"Name":"label","Value":"_content/Dekao.UI.Site/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"737"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uKZzT6sBRLSCLtxHA74gYtHzeAQNsMsaLarKr4okHRM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 15:45:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/css/site_bundle.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site_bundle.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh\u002BVVdayolb0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"232640"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh\u002BVVdayolb0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 16:02:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/css/site_bundle.min.t3qmedxux5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site_bundle.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t3qmedxux5"},{"Name":"integrity","Value":"sha256-VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh\u002BVVdayolb0="},{"Name":"label","Value":"_content/Dekao.UI.Site/css/site_bundle.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"232640"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VyCthQ/VXRbXBUJEI/1OHNf5aF8H/Xplh\u002BVVdayolb0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 16:02:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/js/site.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R9hz\u002BL\u002BTqZKUjgFxQecYlkIGfNV\u002BjwLFLnvT5xK8GUE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"95"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022R9hz\u002BL\u002BTqZKUjgFxQecYlkIGfNV\u002BjwLFLnvT5xK8GUE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 18:57:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/js/site.tj3fcbp1yk.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tj3fcbp1yk"},{"Name":"integrity","Value":"sha256-R9hz\u002BL\u002BTqZKUjgFxQecYlkIGfNV\u002BjwLFLnvT5xK8GUE="},{"Name":"label","Value":"_content/Dekao.UI.Site/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"95"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022R9hz\u002BL\u002BTqZKUjgFxQecYlkIGfNV\u002BjwLFLnvT5xK8GUE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 18:57:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/js/site_bundle.min.55ohnfmqeh.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site_bundle.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"55ohnfmqeh"},{"Name":"integrity","Value":"sha256-eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw="},{"Name":"label","Value":"_content/Dekao.UI.Site/js/site_bundle.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"87966"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 18:57:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/js/site_bundle.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site_bundle.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"87966"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eYdpxhNjDyFpRqewjXy4DPfYfcOWEJ9ochwjePfgDGw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 18:57:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-grid.bqjiyaj88i.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap-grid.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bqjiyaj88i"},{"Name":"integrity","Value":"sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6\u002BOjzrLmJIsC2Wy4H8="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-grid.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70329"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Yy5/hBqRmmU2MJ1TKwP2aXoTO6\u002BOjzrLmJIsC2Wy4H8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-grid.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap-grid.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6\u002BOjzrLmJIsC2Wy4H8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"70329"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Yy5/hBqRmmU2MJ1TKwP2aXoTO6\u002BOjzrLmJIsC2Wy4H8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-reboot.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap-reboot.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lo9YI82OF03vojdu\u002BXOR3\u002BDRrLIpMhpzZNmHbM5CDMA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12065"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lo9YI82OF03vojdu\u002BXOR3\u002BDRrLIpMhpzZNmHbM5CDMA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-reboot.ub07r2b239.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap-reboot.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ub07r2b239"},{"Name":"integrity","Value":"sha256-lo9YI82OF03vojdu\u002BXOR3\u002BDRrLIpMhpzZNmHbM5CDMA="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-reboot.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12065"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lo9YI82OF03vojdu\u002BXOR3\u002BDRrLIpMhpzZNmHbM5CDMA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-utilities.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap-utilities.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM\u002Bh\u002Byo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"107823"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM\u002Bh\u002Byo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-utilities.khv3u5hwcm.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap-utilities.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"khv3u5hwcm"},{"Name":"integrity","Value":"sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM\u002Bh\u002Byo="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap-utilities.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"107823"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM\u002Bh\u002Byo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"281046"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap.s35ty4nyc5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s35ty4nyc5"},{"Name":"integrity","Value":"sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/bootstrap/css/bootstrap.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"281046"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/js/bootstrap.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\js\bootstrap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BUW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"145401"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BUW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/js/bootstrap.min.458te7yl5x.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"458te7yl5x"},{"Name":"integrity","Value":"sha256-iIdlIYCh31u0wwUJ2r8/YRG6mNQShb\u002BNw2fY0C97f5E="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/bootstrap/js/bootstrap.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"61727"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iIdlIYCh31u0wwUJ2r8/YRG6mNQShb\u002BNw2fY0C97f5E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 16:15:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/js/bootstrap.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iIdlIYCh31u0wwUJ2r8/YRG6mNQShb\u002BNw2fY0C97f5E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"61727"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iIdlIYCh31u0wwUJ2r8/YRG6mNQShb\u002BNw2fY0C97f5E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 16:15:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/bootstrap/js/bootstrap.notf2xhcfb.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\js\bootstrap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"notf2xhcfb"},{"Name":"integrity","Value":"sha256-\u002BUW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/bootstrap/js/bootstrap.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"145401"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BUW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:29:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/css/all.3mu0h9tx89.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3mu0h9tx89"},{"Name":"integrity","Value":"sha256-BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/css/all.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"106394"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/css/all.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"106394"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-brands-400.kr6peqau0t.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kr6peqau0t"},{"Name":"integrity","Value":"sha256-gIRDrmyCBDla3YVD2oqQpguTdvsPh\u002B2OjqN9EJWW2AU="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"210792"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022gIRDrmyCBDla3YVD2oqQpguTdvsPh\u002B2OjqN9EJWW2AU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-brands-400.rfefp540hj.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rfefp540hj"},{"Name":"integrity","Value":"sha256-1yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"118684"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00221yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gIRDrmyCBDla3YVD2oqQpguTdvsPh\u002B2OjqN9EJWW2AU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"210792"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022gIRDrmyCBDla3YVD2oqQpguTdvsPh\u002B2OjqN9EJWW2AU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"118684"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00221yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-regular-400.3s7ez9m4mu.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3s7ez9m4mu"},{"Name":"integrity","Value":"sha256-40VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy\u002BU="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25472"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u002240VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy\u002BU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-regular-400.8hwpw88keo.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8hwpw88keo"},{"Name":"integrity","Value":"sha256-VM9ghve7IfnQcq1JShm0aB\u002BlFt0KFM7lLaAdNlGpE6M="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"68064"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022VM9ghve7IfnQcq1JShm0aB\u002BlFt0KFM7lLaAdNlGpE6M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VM9ghve7IfnQcq1JShm0aB\u002BlFt0KFM7lLaAdNlGpE6M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"68064"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022VM9ghve7IfnQcq1JShm0aB\u002BlFt0KFM7lLaAdNlGpE6M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-40VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy\u002BU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25472"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u002240VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy\u002BU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-solid-900.2i6n11vb93.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2i6n11vb93"},{"Name":"integrity","Value":"sha256-qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"158220"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-solid-900.alr6ukxakq.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"alr6ukxakq"},{"Name":"integrity","Value":"sha256-0vBZNUCw4zum3iVaVPJy1GbjEUSAaVa\u002BqM/b9\u002B3/yb0="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"426112"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00220vBZNUCw4zum3iVaVPJy1GbjEUSAaVa\u002BqM/b9\u002B3/yb0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0vBZNUCw4zum3iVaVPJy1GbjEUSAaVa\u002BqM/b9\u002B3/yb0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"426112"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00220vBZNUCw4zum3iVaVPJy1GbjEUSAaVa\u002BqM/b9\u002B3/yb0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"158220"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-v4compatibility.kizxfigrer.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kizxfigrer"},{"Name":"integrity","Value":"sha256-DOkDPGnccU9fRe\u002Bb8X1V5MRrzfrWeZpOkrOOd4G/hr0="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-v4compatibility.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4796"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022DOkDPGnccU9fRe\u002Bb8X1V5MRrzfrWeZpOkrOOd4G/hr0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-v4compatibility.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MPar9rqkJYJYKHk9bfrR\u002B2N2XQ5auqevb\u002Br7m/zs5aA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10836"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022MPar9rqkJYJYKHk9bfrR\u002B2N2XQ5auqevb\u002Br7m/zs5aA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-v4compatibility.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DOkDPGnccU9fRe\u002Bb8X1V5MRrzfrWeZpOkrOOd4G/hr0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4796"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022DOkDPGnccU9fRe\u002Bb8X1V5MRrzfrWeZpOkrOOd4G/hr0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-v4compatibility.wontxidjva.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wontxidjva"},{"Name":"integrity","Value":"sha256-MPar9rqkJYJYKHk9bfrR\u002B2N2XQ5auqevb\u002Br7m/zs5aA="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/font-awesome/webfonts/fa-v4compatibility.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10836"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022MPar9rqkJYJYKHk9bfrR\u002B2N2XQ5auqevb\u002Br7m/zs5aA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/additional-methods.ilo7uva0vt.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\additional-methods.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ilo7uva0vt"},{"Name":"integrity","Value":"sha256-RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/jquery-validate/additional-methods.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51529"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/additional-methods.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\additional-methods.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"51529"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022RtK5/xaX3H1GQNw5gX7lTEGtDXcqlD8j/rgs0bEPA6c=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/jquery-validation-sri.e0j594lf74.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\jquery-validation-sri.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e0j594lf74"},{"Name":"integrity","Value":"sha256-gsfh\u002BfF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/jquery-validate/jquery-validation-sri.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79980"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022gsfh\u002BfF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/jquery-validation-sri.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\jquery-validation-sri.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gsfh\u002BfF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"79980"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022gsfh\u002BfF7nCKRNeDqF47a7EU2OiYXpPThNccZMHj231w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/jquery.validate.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\jquery.validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"52536"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/jquery.validate.lzl9nlhx6b.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\jquery.validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lzl9nlhx6b"},{"Name":"integrity","Value":"sha256-kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/jquery-validate/jquery.validate.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52536"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/localization/messages_pt_BR.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\localization\messages_pt_BR.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5953"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/localization/messages_pt_BR.web6tml14t.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\localization\messages_pt_BR.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"web6tml14t"},{"Name":"integrity","Value":"sha256-SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/jquery-validate/localization/messages_pt_BR.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5953"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022SGRYFVmCECJJdveYur8lfVAH6gunIUBIGsL5tf9EhQI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/localization/methods_pt.dblook5b1t.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\localization\methods_pt.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dblook5b1t"},{"Name":"integrity","Value":"sha256-6XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/jquery-validate/localization/methods_pt.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"554"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validate/localization/methods_pt.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validate\localization\methods_pt.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"554"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226XkaxaFNR9VOIpAgGzIfR9jQmYU0eJJDctSbrPP89yc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"03hjc8e09r"},{"Name":"integrity","Value":"sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19820"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19820"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery/jquery.0i3buxo5is.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0i3buxo5is"},{"Name":"integrity","Value":"sha256-eKhayi8LEQwp4NKxN\u002BCfCh\u002B3qOVUtJn3QNZ0TciWLP4="},{"Name":"label","Value":"_content/Dekao.UI.Site/lib/jquery/jquery.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"285314"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eKhayi8LEQwp4NKxN\u002BCfCh\u002B3qOVUtJn3QNZ0TciWLP4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:21:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Dekao.UI.Site/lib/jquery/jquery.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eKhayi8LEQwp4NKxN\u002BCfCh\u002B3qOVUtJn3QNZ0TciWLP4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"285314"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eKhayi8LEQwp4NKxN\u002BCfCh\u002B3qOVUtJn3QNZ0TciWLP4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 14:21:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
